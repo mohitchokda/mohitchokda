@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohitchokda.github.io/](https://mohitchokda.github.io/)
 
-- 💬 Ask me about **Java, Spring Framework**
+- 💬 Ask me about **Java, Spring Framework, Pega Robotics**
 
 - 📫 How to reach me **mohitchokda10@gmail.com**
 
